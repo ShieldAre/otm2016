@@ -12,3 +12,6 @@ hello world
 **Uutta tekstiä**
 
 [Käyttö-ohje](https://github.com/ShieldAre/otm2016/blob/master/dokumentointi/kaytto-ohje.md)
+
+** *LISÄÄ UUTTA!!!* **
+
